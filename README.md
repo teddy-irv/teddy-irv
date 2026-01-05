@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>Active Directory Home Lab (VMware)</b>
+  - (https://github.com/teddy-irv/Active-Directory-Lab/blob/main/README.md)
 
 <h2>📝 Certifications</h2>
 
@@ -12,3 +14,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/teddy-irvine-226977311
+
